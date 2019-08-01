@@ -1,0 +1,13 @@
+.git
+.gitignore
+.idea
+.DS_Store
+manage.log
+rsync.sh
+test_rsync.sh
+exclude.txt
+*.pyc
+*.log
+logs
+__pycache__
+hospital_data
